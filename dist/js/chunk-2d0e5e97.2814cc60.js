@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5e97"],{9703:function(e,n,t){"use strict";t.r(n);var c=t("7a23"),r={class:"my-5 text-center h2 text-danger fw-bold"};function s(e,n){return Object(c["s"])(),Object(c["e"])("div",r," 404 找不到頁面 ")}const d={};d.render=s;n["default"]=d}}]);
+//# sourceMappingURL=chunk-2d0e5e97.2814cc60.js.map
